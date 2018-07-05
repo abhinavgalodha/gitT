@@ -17,7 +17,7 @@ namespace SpanT
             Span<byte> sp2 = sp1.Slice(1, 2);
 
 
-
+            int[] arr = {2,3};
         }
 
         
